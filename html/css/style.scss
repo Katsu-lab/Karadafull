@@ -269,7 +269,6 @@ header {
         &.massage {
           background: url(../img/example.png);
           h5, p {background: rgba(178, 158, 255, 0.95);}
-          h5 {padding: 0 0 11px; font-size: 100%; line-height: 0.5em;}
         }
       }
     }
@@ -311,10 +310,6 @@ header {
       }
     }
   }
-}
-/* chrome opera */
-_::content, _:future, #article #price div.contents div.content.massage h5:not(*:root) {
-    padding: 5px 0 6px; line-height: 1.2em;
 }
 
 

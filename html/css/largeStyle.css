@@ -7,7 +7,6 @@
     font-family: 'Yu Gothic', sans-serif;
     color: #333;
     box-sizing: border-box;
-    overflow: auto;
 }
 html,
 body {
@@ -561,11 +560,6 @@ header .menu_bar ul li a.inquiry {
 #article #price .contents .content.massage h5,
 #article #price .contents .content.massage p {
     background: rgba(178,158,255,0.95);
-}
-#article #price .contents .content.massage h5 {
-    padding: 0 0 11px;
-    font-size: 100%;
-    line-height: 0.5em;
 }
 #article #price .campaign {
     background: #9fdcff;
