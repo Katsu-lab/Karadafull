@@ -548,14 +548,14 @@ header .menu_bar ul li a.inquiry {
     background: rgba(255,186,128,0.95);
 }
 #article #price .contents .content.group {
-    background: url(../img/example.png);
+    background: url(../img/group0.png);
 }
 #article #price .contents .content.group h5,
 #article #price .contents .content.group p {
     background: rgba(234,224,111,0.95);
 }
 #article #price .contents .content.child {
-    background: url(../img/example.png);
+    background: url(../img/child0.png);
 }
 #article #price .contents .content.child h5,
 #article #price .contents .content.child p {
@@ -574,11 +574,6 @@ header .menu_bar ul li a.inquiry {
 #article #price .contents .content.massage h5,
 #article #price .contents .content.massage p {
     background: rgba(178,158,255,0.95);
-}
-#article #price .contents .content.massage h5 {
-    padding: 0 0 11px;
-    font-size: 100%;
-    line-height: 0.5em;
 }
 #article #price .campaign {
     background: #9fdcff;
